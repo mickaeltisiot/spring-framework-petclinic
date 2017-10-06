@@ -11,7 +11,7 @@
         <thead>
         <tr>
             <th>nom modifie</th>
-            <th>Specialties</th>
+            <th>Specialties livraison auto</th>
         </tr>
         </thead>
         <tbody>
