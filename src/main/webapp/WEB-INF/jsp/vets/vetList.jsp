@@ -10,7 +10,7 @@
     <table id="vetsTable" class="table table-striped">
         <thead>
         <tr>
-            <th>nom modifie</th>
+            <th>nom modifie test esclave</th>
             <th>Specialties livraison auto totale !!</th>
         </tr>
         </thead>
